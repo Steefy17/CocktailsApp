@@ -3,7 +3,7 @@
 An app that show a list of cocktails obtained by an api.
 With this app you can search a specific drink, you can generate a random drink and look for drinks by alcoholic base.
 
-###Update! 
+### Update! 
 Now you can store the drink you have already tried and how much did you liked
 All drinks and search view
 
