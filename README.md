@@ -5,6 +5,7 @@ With this app you can search a specific drink, you can generate a random drink a
 
 ### Update! 
 Now you can store the drink you have already tried and how much did you liked
+
 All drinks and search view
 
 ![Schermata 2022-07-01 alle 14 27 55](https://user-images.githubusercontent.com/60598743/176894952-29fd14b0-151e-4eee-a75f-1fac59ed12e1.png)
